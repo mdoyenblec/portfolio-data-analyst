@@ -25,5 +25,7 @@ Formation vidéo réalisée via Loom à destination des équipes souhaitant mont
 📘 Guide — Créer un graphique d'analyse data dans Tableau
 Guide PDF pas-à-pas couvrant la création d'un graphique d'analyse data dans Tableau : choix du type de visualisation, préparation des données, paramétrage et bonnes pratiques de mise en forme.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 📬 Contact
 Pour toute question relative aux livrables ou à la mission Aeroworld, vous pouvez me contacter via GitHub ou LinkedIn.
