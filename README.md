@@ -1,7 +1,11 @@
-# Portfolio-Data-Analyst - Mission Aeroworld 🛩️
+# Portfolio Data Analyst - Mission Aeroworld 🛩️
+
+
 
 🗂️ À propos de ce repository
 Ce repository centralise l'ensemble des livrables produits dans le cadre de ma mission portfolio réalisée pour Aeroworld, acteur du secteur aéronautique à la recherche d'un profil Data Analyst confirmé, avec une appétence pour le management d'équipe et l'innovation data.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📊 Veille métier — Dashboards
 Les tableaux de bord de veille métier couvrent les tendances du secteur data : évolutions technologiques, outils émergents, pratiques de management analytique et innovations dans le domaine de la data science appliquée à l'industrie aéronautique.
