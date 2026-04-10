@@ -8,11 +8,14 @@ Ce repository centralise l'ensemble des livrables produits dans le cadre de ma m
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📊 Veille métier — Dashboards
+
 Les tableaux de bord de veille métier couvrent les tendances du secteur data : évolutions technologiques, outils émergents, pratiques de management analytique et innovations dans le domaine de la data science appliquée à l'industrie aéronautique.
 Outils utilisés : Tableau Desktop · Tableau Public
 
 
+
 📋 Livrables — Aeroworld
+
 🔍 Analyse des besoins métier
 Étude approfondie des besoins exprimés par Aeroworld : identification des enjeux data, cartographie des processus existants, définition des axes d'amélioration et recommandations stratégiques orientées management et innovation.
 
@@ -21,6 +24,7 @@ Document cadrant la mission portfolio : objectifs, périmètre, contraintes, liv
 
 📅 Diagramme de Gantt — Planification
 Diagramme de Gantt réalisé sur Tableau pour planifier et suivre l'avancement des 12 projets du portfolio. Visualisation des phases, dépendances entre projets et respect des délais.
+
 
 
 🎓 Ressources de formation — Tableau
