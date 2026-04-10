@@ -1,0 +1,595 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="6016" dy="3224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=3;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=3;whiteSpace=wrap;fillColor=#7267FF;strokeColor=light-dark(#000000,#446E2C);gradientColor=none;swimlaneFillColor=none;fontColor=#FFFFFF;" value="P1 : Prenez en main votre formation Data Analyst" vertex="1">
+          <mxGeometry height="50" width="180" x="-1350" y="98" as="geometry">
+            <mxRectangle height="26" width="160" x="230" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--6" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Compétences" vertex="1">
+          <mxGeometry height="300" width="280" x="-1420" y="-262" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--7" parent="zkfFHV4jXpPFQw0GAbJ--6" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;fillColor=#E1F5EE;strokeColor=#9673a6;" value="Compétences : Planification de formation, définition d&#39;objectifs, compréhension de l&#39;IA.&#xa;&#xa;Outils maîtrisés : Outils de collaboration et plateformes de mentoring.&#xa;&#xa;Niveau : Initiation.&#xa;&#xa;Axes d&#39;amélioration : Apprendre à bien gérer son temps.&#xa;&#xa;Représentation du métier : Un rôle qui demande une grande rigueur organisationnelle dès le départ.&#xa;&#xa;Vision initiale : Je pensais que c&#39;était uniquement technique, mais je vois que la méthodologie est la clé." vertex="1">
+          <mxGeometry height="274" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--12" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--6" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="zkfFHV4jXpPFQw0GAbJ--0" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="-1140" y="111" as="sourcePoint" />
+            <mxPoint x="-1140" y="111" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--16" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-2" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="zkfFHV4jXpPFQw0GAbJ--0" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="-1090" y="-22" as="sourcePoint" />
+            <mxPoint x="-1030" y="179" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-2" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Soft skills" vertex="1">
+          <mxGeometry height="100" width="280" x="-1080" y="-62" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-3" parent="bhPw0TIyGBNEv0VjAGPA-2" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="J’ai développé mon sens de l’organisation et ma curiosité en planifiant mon parcours, tout en apprenant à communiquer efficacement mes besoins et mes objectifs à mon mentor." vertex="1">
+          <mxGeometry height="74" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-9" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=3;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=3;whiteSpace=wrap;fillColor=#7267FF;strokeColor=light-dark(#3C3489,#446E2C);fontColor=#FFFFFF;" value="P2 : Faites une analyse de ventes pour un e-commerce" vertex="1">
+          <mxGeometry height="50" width="180" x="-610" y="40" as="geometry">
+            <mxRectangle height="26" width="160" x="230" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-10" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Compétences" vertex="1">
+          <mxGeometry height="300" width="280" x="-680" y="-320" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-11" parent="bhPw0TIyGBNEv0VjAGPA-10" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;fillColor=#E1F5EE;strokeColor=#9673a6;" value="Compétences : Data visualisation, storytelling, analyse de performance.&#xa;&#xa;Outils maîtrisés : Excel / Google Sheets, PDF.&#xa;&#xa;Niveau : Débutant.&#xa;&#xa;Axes d&#39;amélioration : Équilibrer l&#39;esthétique et la clarté informative.&#xa;&#xa;Représentation du métier : L&#39;analyste est un traducteur qui transforme des chiffres bruts en conseils stratégiques.&#xa;&#xa;Vision initiale : Je considérais la visualisation comme un simple habillage graphique, secondaire au regard de l&#39;analyse elle-même." vertex="1">
+          <mxGeometry height="274" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-12" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-10" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-9" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="-400" y="53" as="sourcePoint" />
+            <mxPoint x="-400" y="53" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-13" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-14" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-9" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="-350" y="-80" as="sourcePoint" />
+            <mxPoint x="-290" y="121" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-14" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Soft skills" vertex="1">
+          <mxGeometry height="100" width="280" x="-340" y="-120" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-15" parent="bhPw0TIyGBNEv0VjAGPA-14" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="J&#39;ai travaillé mon esprit de synthèse pour extraire l&#39;essentiel des données et j&#39;ai fait preuve d&#39;empathie en adaptant mes visuels aux principes d&#39;accessibilité pour tous les utilisateurs." vertex="1">
+          <mxGeometry height="74" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-16" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=3;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=3;whiteSpace=wrap;fillColor=#7267FF;strokeColor=light-dark(#3C3489,#446E2C);fontColor=#FFFFFF;" value="P3 : Requêtez une base de données avec SQL" vertex="1">
+          <mxGeometry height="50" width="180" x="90" y="140" as="geometry">
+            <mxRectangle height="26" width="160" x="230" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-17" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Compétences" vertex="1">
+          <mxGeometry height="300" width="280" x="20" y="-220" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-18" parent="bhPw0TIyGBNEv0VjAGPA-17" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;fillColor=#E1F5EE;strokeColor=#9673a6;" value="Compétences : Création de bases de données, modélisation, requêtage fondamental.&#xa;&#xa;Outils maîtrisés : SQL, dictionnaires de données.&#xa;&#xa;Niveau : Fondamental.&#xa;&#xa;Axes d&#39;amélioration : Livrables merger en un seul document au lieu de 4 documents différents.&#xa;&#xa;Représentation du métier : Savoir extraire soi-même la donnée est le socle indispensable du métier.&#xa;&#xa;Vision initiale : Je sous estimais l&#39;importance de la structuration de la donnée en amont." vertex="1">
+          <mxGeometry height="274" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-19" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-17" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-16" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="300" y="153" as="sourcePoint" />
+            <mxPoint x="300" y="153" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-20" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-21" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-16" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="350" y="20" as="sourcePoint" />
+            <mxPoint x="410" y="221" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-21" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Soft skills" vertex="1">
+          <mxGeometry height="100" width="280" x="380" y="-30" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-22" parent="bhPw0TIyGBNEv0VjAGPA-21" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Ce projet a sollicité ma rigueur et ma logique mathématique pour construire des architectures de données cohérentes sans erreurs de syntaxe." vertex="1">
+          <mxGeometry height="74" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-23" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=3;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=3;whiteSpace=wrap;fillColor=#7267FF;strokeColor=light-dark(#3C3489,#446E2C);fontColor=#FFFFFF;" value="P4 : Réalisez une étude de santé publique avec R ou Python" vertex="1">
+          <mxGeometry height="50" width="180" x="460" y="575" as="geometry">
+            <mxRectangle height="26" width="160" x="230" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-24" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Compétences" vertex="1">
+          <mxGeometry height="300" width="280" x="390" y="215" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-25" parent="bhPw0TIyGBNEv0VjAGPA-24" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;rounded=0;fillColor=#E1F5EE;strokeColor=#9673a6;" value="Compétences : Programmation pour l&#39;analyse, manipulation de Notebooks.&#xa;&#xa;Outils maîtrisés : Python (Pandas), Jupyter Notebook.&#xa;&#xa;Niveau : Intermédiaire.&#xa;&#xa;Axes d&#39;amélioration : Faire plus de représentations graphiques.&#xa;&#xa;Représentation du métier : Le code offre une puissance et une reproductibilité d&#39;analyse bien supérieures aux outils classiques.&#xa;&#xa;Vision initiale : La programmation me semblait plus complexe, elle devient un outil de travail concret." vertex="1">
+          <mxGeometry height="274" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-26" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-24" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-23" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1125" y="528" as="sourcePoint" />
+            <mxPoint x="1125" y="528" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-27" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-28" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-23" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1175" y="395" as="sourcePoint" />
+            <mxPoint x="1235" y="596" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-28" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Soft skills" vertex="1">
+          <mxGeometry height="100" width="280" x="699" y="385" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-29" parent="bhPw0TIyGBNEv0VjAGPA-28" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="J&#39;ai renforcé mon autonomie face aux erreurs de code et exercé mon esprit critique pour interpréter des indicateurs de santé publique parfois complexes." vertex="1">
+          <mxGeometry height="74" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-30" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=3;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=3;whiteSpace=wrap;fillColor=#7267FF;strokeColor=light-dark(#3C3489,#446E2C);fontColor=#FFFFFF;" value="P5 : Créez et utilisez une base de données immobilière avec SQL" vertex="1">
+          <mxGeometry height="50" width="180" x="680" y="1030" as="geometry">
+            <mxRectangle height="26" width="160" x="230" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-31" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Compétences" vertex="1">
+          <mxGeometry height="300" width="280" x="610" y="670" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-32" parent="bhPw0TIyGBNEv0VjAGPA-31" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;rounded=0;fillColor=#E1F5EE;strokeColor=#9673a6;" value="Compétences : Modélisation 3NF, conformité RGPD, requêtes complexes.&#xa;&#xa;Outils maîtrisés : SQL avancé (PostgreSQL ou MySQL).&#xa;Niveau : Avancé.&#xa;&#xa;Axes d&#39;amélioration : Améliorer la compréhension du typage des données au niveau du Dictionnaire des données.&#xa;&#xa;Représentation du métier : L&#39;analyste est garant de la qualité et de la sécurité (éthique) des données qu&#39;il manipule.&#xa;&#xa;Vision initiale : Je pensais que la structure des données était &quot;donnée&quot;, je comprends maintenant qu&#39;elle doit être réfléchie." vertex="1">
+          <mxGeometry height="274" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-33" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-31" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-30" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="890" y="1043" as="sourcePoint" />
+            <mxPoint x="890" y="1043" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-34" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-35" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-30" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="940" y="910" as="sourcePoint" />
+            <mxPoint x="1000" y="1111" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-35" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Soft skills" vertex="1">
+          <mxGeometry height="100" width="280" x="970" y="860" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-36" parent="bhPw0TIyGBNEv0VjAGPA-35" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="J&#39;ai cultivé mon sens de l&#39;éthique vis-à-vis du traitement des données personnelles et ma capacité de structuration mentale pour modéliser des environnements métiers réels." vertex="1">
+          <mxGeometry height="74" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-46" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=3;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=3;whiteSpace=wrap;fillColor=#7267FF;strokeColor=light-dark(#3C3489,#446E2C);fontColor=#FFFFFF;" value="P6 : Optimisez la gestion des données d&#39;une boutique avec R ou Python" vertex="1">
+          <mxGeometry height="50" width="180" x="532" y="1513" as="geometry">
+            <mxRectangle height="26" width="160" x="230" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-47" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Compétences" vertex="1">
+          <mxGeometry height="300" width="280" x="461" y="1153" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-48" parent="bhPw0TIyGBNEv0VjAGPA-47" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;rounded=0;fillColor=#E1F5EE;strokeColor=#9673a6;" value="Compétences : Data Cleaning, analyse exploratoire (EDA), analyses univariées.&#xa;&#xa;Outils maîtrisés : Python (Pandas, Matplotlib/Seaborn).&#xa;&#xa;Niveau : Maîtrise du traitement de données.&#xa;&#xa;Axes d&#39;amélioration : &#xa;&#xa;Représentation du métier : On passe 80% de notre temps à préparer la donnée ; c&#39;est une étape cruciale pour la fiabilité des résultats.&#xa;&#xa;Vision initiale : Je pensais que le nettoyage était une tâche mineure, c&#39;est en fait le cœur du réacteur." vertex="1">
+          <mxGeometry height="274" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-49" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-47" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-46" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="742" y="1526" as="sourcePoint" />
+            <mxPoint x="742" y="1526" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-50" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-51" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-46" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="792" y="1393" as="sourcePoint" />
+            <mxPoint x="852" y="1594" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-51" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Soft skills" vertex="1">
+          <mxGeometry height="100" width="280" x="822" y="1343" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-52" parent="bhPw0TIyGBNEv0VjAGPA-51" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="J&#39;ai fait preuve de patience et d&#39;un grand souci du détail pour identifier les anomalies et nettoyer les données sans altérer leur intégrité." vertex="1">
+          <mxGeometry height="74" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-53" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=3;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=80;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=3;whiteSpace=wrap;fillColor=#7267FF;strokeColor=light-dark(#3C3489,#446E2C);fontColor=#FFFFFF;" value="P7 : Créez un tableau de bord dynamique avec Power Bi pour visualiser l&#39;avancement des projets" vertex="1">
+          <mxGeometry height="80" width="179" x="-9" y="1893" as="geometry">
+            <mxRectangle height="26" width="160" x="230" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-54" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Compétences" vertex="1">
+          <mxGeometry height="320" width="280" x="-80" y="1513" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-55" parent="bhPw0TIyGBNEv0VjAGPA-54" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;rounded=0;fillColor=#E1F5EE;strokeColor=#9673a6;" value="Compétences : Conception de dashboard, recueil de besoins (User Stories), Product Strategy Canvas.&#xa;&#xa;Outils maîtrisés : Power BI.&#xa;&#xa;Niveau : Professionnel (BI).&#xa;&#xa;Axes d&#39;amélioration : Maîtriser les formules DAX complexes.&#xa;&#xa;Représentation du métier : L&#39;analyste doit être force de proposition pour aider le business à suivre ses projets en temps réel.&#xa;&#xa;Vision initiale : Je voyais le dashboard comme une simple étape finale ; c&#39;est en fait un produit stratégique à part entière." vertex="1">
+          <mxGeometry height="294" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-56" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-54" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-53" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="201" y="1886" as="sourcePoint" />
+            <mxPoint x="201" y="1886" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-57" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-58" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-53" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="251" y="1753" as="sourcePoint" />
+            <mxPoint x="311" y="1954" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-58" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Soft skills" vertex="1">
+          <mxGeometry height="100" width="280" x="281" y="1703" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-59" parent="bhPw0TIyGBNEv0VjAGPA-58" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="J&#39;ai affiné mon écoute active pour traduire les besoins des clients en solutions visuelles et ma vision business en utilisant des outils de stratégie produit." vertex="1">
+          <mxGeometry height="74" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-60" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=3;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=80;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=3;whiteSpace=wrap;fillColor=#7267FF;strokeColor=light-dark(#3C3489,#446E2C);fontColor=#FFFFFF;" value="P8 : Analysez l&#39;évolution de profils sociodémographiques avec KNIME" vertex="1">
+          <mxGeometry height="80" width="179" x="-710" y="1980" as="geometry">
+            <mxRectangle height="26" width="160" x="230" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-61" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Compétences" vertex="1">
+          <mxGeometry height="350" width="280" x="-780" y="1560" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-62" parent="bhPw0TIyGBNEv0VjAGPA-61" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;rounded=0;fillColor=#E1F5EE;strokeColor=#9673a6;" value="Compétences : Automatisation de workflows de données, calcul d&#39;index sociaux, anonymisation des données (RGPD).&#xa;&#xa;Outils maîtrisés : KNIME, Tableau Software (préparation des fichiers .csv).&#xa;&#xa;Niveau : Intermédiaire (Automatisation et &#xa;conformité).&#xa;&#xa;Axes d&#39;amélioration / Difficultés : Ajouter davantage de commentaires dans le code pour faciliter la lecture par un tiers.&#xa;&#xa;Représentation du métier : L&#39;analyste aide les RH à piloter la stratégie sociale de l&#39;entreprise de manière transparente.&#xa;&#xa;Vision initiale : Je ne pensais pas que l&#39;automatisation pouvait s&#39;appliquer aussi directement aux enjeux humains et légaux." vertex="1">
+          <mxGeometry height="324" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-63" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-61" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-60" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="121" y="2023" as="sourcePoint" />
+            <mxPoint x="121" y="2023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-64" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-65" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-60" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="-438" y="1840" as="sourcePoint" />
+            <mxPoint x="-378" y="2041" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-65" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Soft skills" vertex="1">
+          <mxGeometry height="120" width="280" x="-419" y="1790" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-66" parent="bhPw0TIyGBNEv0VjAGPA-65" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="J&#39;ai renforcé ma transparence et mon sens de l&#39;éthique en garantissant l&#39;anonymisation des données sensibles, tout en développant ma pédagogie pour présenter des résultats complexes en assemblée plénière." vertex="1">
+          <mxGeometry height="94" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-67" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=3;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=80;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=3;whiteSpace=wrap;fillColor=#7267FF;strokeColor=light-dark(#3C3489,#446E2C);fontColor=#FFFFFF;" value="P9 : Analyse des ventes d&#39;une librairie" vertex="1">
+          <mxGeometry height="80" width="179" x="-1419" y="1900" as="geometry">
+            <mxRectangle height="26" width="160" x="230" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-68" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Compétences" vertex="1">
+          <mxGeometry height="330" width="280" x="-1490" y="1500" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-69" parent="bhPw0TIyGBNEv0VjAGPA-68" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;rounded=0;fillColor=#E1F5EE;strokeColor=#9673a6;" value="Compétences : Statistiques descriptives, analyse de corrélations, analyse de séries temporelles.&#xa;&#xa;Outils maîtrisés : Python (Pandas, Scipy/Statsmodels, Matplotlib).&#xa;&#xa;Niveau : Maîtrise statistique.&#xa;&#xa;Axes d&#39;amélioration / Difficultés : Bien vérifier les conditions d&#39;applicabilité des tests paramétriques avant leur usage.&#xa;&#xa;Représentation du métier : Le Data Analyst est un détective qui cherche des modèles cachés dans le comportement des clients.&#xa;&#xa;Vision initiale : Je voyais l&#39;analyse de ventes comme un simple calcul de chiffre d&#39;affaires ; c&#39;est en fait une étude de comportement." vertex="1">
+          <mxGeometry height="304" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-70" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-68" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-67" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="-1209" y="1913" as="sourcePoint" />
+            <mxPoint x="-1209" y="1913" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-71" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-72" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-67" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="-1159" y="1780" as="sourcePoint" />
+            <mxPoint x="-1099" y="1981" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-72" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Soft skills" vertex="1">
+          <mxGeometry height="120" width="280" x="-1129" y="1730" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-73" parent="bhPw0TIyGBNEv0VjAGPA-72" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="J&#39;ai aiguisé mon esprit analytique pour détecter des tendances non évidentes et ma rigueur scientifique lors du calcul des indicateurs de performance." vertex="1">
+          <mxGeometry height="94" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-74" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=3;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=80;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=3;whiteSpace=wrap;fillColor=#7267FF;strokeColor=light-dark(#3C3489,#446E2C);fontColor=#FFFFFF;" value="P10 : Étude sur l&#39;eau potable" vertex="1">
+          <mxGeometry height="80" width="179" x="-1859" y="1520" as="geometry">
+            <mxRectangle height="26" width="160" x="230" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-75" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Compétences" vertex="1">
+          <mxGeometry height="340" width="280" x="-1930" y="1110" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-76" parent="bhPw0TIyGBNEv0VjAGPA-75" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;rounded=0;fillColor=#E1F5EE;strokeColor=#9673a6;" value="Compétences : Recherche de données externes, prétraitement complexe, storytelling visuel avancé.&#xa;&#xa;Outils maîtrisés : Tableau Public.&#xa;&#xa;Niveau : Expert en visualisation.&#xa;&#xa;Axes d&#39;amélioration / Difficultés : Mieux nettoyer les données pour éviter les filtres avec valeur &quot;Null&quot; sur le tableau de bord. Mieux vérifier la qualité des données (% qui dépasse 100...)&#xa;Bien guider le choix de pays cibles en se basant sur les données du tableau de bord.&#xa;&#xa;Représentation du métier : L&#39;analyste doit savoir sortir de ses propres bases de données pour aller chercher de l&#39;information externe pertinente.&#xa;&#xa;Vision initiale : Je pensais que la visualisation avec l&#39;outil Tableau allait être moins fastidieuse qu&#39;elle ne l&#39;a été." vertex="1">
+          <mxGeometry height="314" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-77" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-75" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-74" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="-1649" y="1416" as="sourcePoint" />
+            <mxPoint x="-1649" y="1416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-78" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-80" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-74" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="-1689" y="1350" as="sourcePoint" />
+            <mxPoint x="-1629" y="1551" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-79" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Soft skills" vertex="1">
+          <mxGeometry height="100" width="280" x="-1569" y="1300" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-80" parent="bhPw0TIyGBNEv0VjAGPA-79" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="J&#39;ai développé ma curiosité intellectuelle par la recherche de données mondiales et mon sens du récit (storytelling) pour engager l&#39;auditoire sur une problématique de santé publique." vertex="1">
+          <mxGeometry height="74" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-81" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=3;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=80;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=3;whiteSpace=wrap;fillColor=#7267FF;strokeColor=#3C3489;fontColor=#FFFFFF;" value="P11 : Produisez une étude de marché avec R ou Python" vertex="1">
+          <mxGeometry height="80" width="179" x="-2140" y="1050" as="geometry">
+            <mxRectangle height="26" width="160" x="230" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-82" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Compétences" vertex="1">
+          <mxGeometry height="320" width="280" x="-2210" y="640" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-83" parent="bhPw0TIyGBNEv0VjAGPA-82" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;rounded=0;fillColor=#E1F5EE;strokeColor=#9673a6;" value="Compétences : Réduction de dimensions (ACP), Clustering (K-means), recommandations stratégiques.&#xa;&#xa;Outils maîtrisés : Python (Scikit-learn).&#xa;&#xa;Niveau : Avancé / Conseil stratégique.&#xa;&#xa;Axes d&#39;amélioration / Difficultés : Justifier le choix d&#39;un nombre de clusters et traduire des mathématiques complexes en conseils business concrets.&#xa;&#xa;Représentation du métier : L&#39;analyste devient un conseiller de la direction, capable d&#39;orienter les investissements de l&#39;entreprise.&#xa;&#xa;Vision initiale : Je ne pensais pas qu&#39;on pouvait &#xa;segmenter des marchés de manière aussi scientifique et mathématique." vertex="1">
+          <mxGeometry height="294" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-84" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-82" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-81" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="-1929" y="1013" as="sourcePoint" />
+            <mxPoint x="-1929" y="1013" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-85" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-86" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-81" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="-1879" y="880" as="sourcePoint" />
+            <mxPoint x="-1819" y="1081" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-86" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Soft skills" vertex="1">
+          <mxGeometry height="100" width="280" x="-1849" y="830" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-87" parent="bhPw0TIyGBNEv0VjAGPA-86" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="J&#39;ai affirmé ma posture de consultant en formulant des recommandations stratégiques et j&#39;ai appris à adapter mon discours pour convaincre un auditoire non technique." vertex="1">
+          <mxGeometry height="74" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-88" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=3;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=80;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=3;whiteSpace=wrap;fillColor=#7267FF;strokeColor=light-dark(#000000,#446E2C);fontColor=#FFFFFF;" value="P12 : Détectez des faux billets avec R ou Python" vertex="1">
+          <mxGeometry height="80" width="179" x="-1996" y="490" as="geometry">
+            <mxRectangle height="26" width="160" x="230" y="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-89" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Compétences" vertex="1">
+          <mxGeometry height="360" width="280" x="-2067" y="50" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-90" parent="bhPw0TIyGBNEv0VjAGPA-89" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;rounded=0;fillColor=#E1F5EE;strokeColor=#9673a6;" value="Compétences : Modélisation prédictive, classification (Régression logistique, KNN, Random Forest), évaluation de modèles (matrice de confusion, score).&#xa;&#xa;Outils maîtrisés : Python (Scikit-learn), Scripting Python (.py).&#xa;&#xa;Niveau : Initiation au Machine Learning / Data Science.&#xa;&#xa;Axes d&#39;amélioration / Difficultés : Justification du choix de l&#39;imputation. Prise en compte de l&#39;aspect métier dans le choix du seuil pour la régression logistique.&#xa;&#xa;Représentation du métier : L&#39;analyste peut créer des outils automatisés de prédiction qui remplacent des tâches manuelles fastidieuses.&#xa;&#xa;Vision initiale : J&#39;étais très curieux de découvrir le machine learning avec un sujet aussi intéressant." vertex="1">
+          <mxGeometry height="334" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-91" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-89" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-88" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="-1786" y="433" as="sourcePoint" />
+            <mxPoint x="-1786" y="433" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-92" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bhPw0TIyGBNEv0VjAGPA-93" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;curved=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="bhPw0TIyGBNEv0VjAGPA-88" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="-1736" y="300" as="sourcePoint" />
+            <mxPoint x="-1676" y="501" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-93" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;strokeWidth=1;" value="Soft skills" vertex="1">
+          <mxGeometry height="100" width="280" x="-1706" y="250" as="geometry">
+            <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bhPw0TIyGBNEv0VjAGPA-94" parent="bhPw0TIyGBNEv0VjAGPA-93" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="J&#39;ai démontré une grande autonomie technique en gérant le projet de A à Z et une persévérance certaine pour optimiser la fiabilité de mon application finale." vertex="1">
+          <mxGeometry height="74" width="280" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="sAmjh3loWX-0pQ7zcZpu-0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" value="" vertex="1">
+          <mxGeometry height="60" width="280" x="-1080" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-29" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.49;dx=65;notch=0;flipH=0;legacyAnchorPoints=0;flipV=0;" value="" vertex="1">
+          <mxGeometry height="190" width="240" x="-650" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-31" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.49;dx=65;notch=0;flipH=0;legacyAnchorPoints=0;flipV=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="190" width="240" x="10" y="705" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-32" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.49;dx=65;notch=0;flipH=0;legacyAnchorPoints=0;flipV=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="190" width="240" x="-1290" y="705" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-33" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.49;dx=65;notch=0;flipH=1;legacyAnchorPoints=0;flipV=0;fillColor=#FFFFFF;fontColor=#333333;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="190" width="240" x="-650" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-34" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=25;fillColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="150" width="150" x="-1015" y="-310" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-35" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=45;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="&lt;p&gt;P1&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="75" x="-977.5" y="-265" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-36" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=25;fillColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="150" width="150" x="-275" y="-350" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-37" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=6;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="&lt;p&gt;&lt;font style=&quot;font-size: 45px;&quot;&gt;P2&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="75" x="-237.5" y="-305" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-38" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=25;fillColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="150" width="150" x="445" y="-262" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-39" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=6;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="&lt;p&gt;&lt;font style=&quot;font-size: 45px;&quot;&gt;P3&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="75" x="482.5" y="-217" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-40" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=25;fillColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="150" width="150" x="760" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-41" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=6;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="&lt;p&gt;&lt;font style=&quot;font-size: 45px;&quot;&gt;P4&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="75" x="797.5" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-42" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=25;fillColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="150" width="150" x="1030" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-43" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=6;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="&lt;p&gt;&lt;font style=&quot;font-size: 45px;&quot;&gt;P5&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="75" x="1067.5" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-44" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=25;fillColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="150" width="150" x="885" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-45" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=6;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="&lt;p&gt;&lt;font style=&quot;font-size: 45px;&quot;&gt;P6&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="75" x="922.5" y="1155" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-46" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=25;fillColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="150" width="150" x="280" y="1453" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-47" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=6;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="&lt;p&gt;&lt;font style=&quot;font-size: 45px;&quot;&gt;P7&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="75" x="317.5" y="1498" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-48" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=25;fillColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="150" width="150" x="-360" y="1563" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-49" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=6;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="&lt;p&gt;&lt;font style=&quot;font-size: 45px;&quot;&gt;P8&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="75" x="-322.5" y="1608" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-50" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=25;fillColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="150" width="150" x="-1067" y="1498" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-51" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=6;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="&lt;p&gt;&lt;font style=&quot;font-size: 45px;&quot;&gt;P9&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="75" x="-1029.5" y="1543" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-52" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=25;fillColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="150" width="150" x="-1500" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-53" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=6;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="&lt;p&gt;&lt;font style=&quot;font-size: 43px;&quot;&gt;P10&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="75" x="-1462.5" y="1125" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-54" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=25;fillColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="150" width="150" x="-1787" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-55" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=6;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="&lt;p&gt;&lt;font style=&quot;font-size: 43px;&quot;&gt;P11&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="75" x="-1749.5" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-56" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=25;fillColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="150" width="150" x="-1650" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-57" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=6;fontStyle=1;verticalAlign=middle;align=center;autosizeText=1;" value="&lt;p&gt;&lt;font style=&quot;font-size: 43px;&quot;&gt;P12&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="75" x="-1612.5" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-62" parent="WIyWlLk6GJQsqaUBKTNV-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;fillColor=#534AB7;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="195" width="556" x="-795" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-63" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontColor=#EEEDFE;" value="&lt;h1&gt;Maxime Doyen Blec&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="50" width="370" x="-706.5" y="765" as="geometry" />
+        </mxCell>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-65" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;h2&gt;&lt;font style=&quot;color: rgb(175, 169, 236);&quot;&gt;Chef De Projet Data Analyst&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="80" width="470" x="-756.5" y="815" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;&lt;font&gt;Lien Livrable Projet 1&lt;/font&gt;&lt;/b&gt;" link="https://github.com/mdoyenblec/portfolio-data-analyst/blob/main/Livrables-Projets/MD_P1_prendre-en-main-formation-data-analyst_DoyenBlec_Maxime.zip" id="-sW92_vnzfjc-GKh4V1b-70">
+          <mxCell parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=light-dark(#6666FF,#FC7470);fontStyle=4;fontFamily=Helvetica;fontSize=24;" vertex="1">
+            <mxGeometry height="60" width="280" x="-1080" y="-130" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-71" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" value="" vertex="1">
+          <mxGeometry height="60" width="280" x="-340" y="-190" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;&lt;font&gt;Lien Livrable Projet 2&lt;/font&gt;&lt;/b&gt;" link="https://github.com/mdoyenblec/portfolio-data-analyst/blob/main/Livrables-Projets/MD_P2_faites-une-analyse-de-ventes-pour-un-e-commerce_2024-10-24T181949.zip" id="-sW92_vnzfjc-GKh4V1b-72">
+          <mxCell parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=light-dark(#6666FF,#FC7470);fontStyle=4;fontFamily=Helvetica;fontSize=24;" vertex="1">
+            <mxGeometry height="60" width="280" x="-340" y="-190" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-73" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" value="" vertex="1">
+          <mxGeometry height="60" width="280" x="380" y="-100" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;&lt;font&gt;Lien Livrable Projet 3&lt;/font&gt;&lt;/b&gt;" link="https://github.com/mdoyenblec/portfolio-data-analyst/blob/main/Livrables-Projets/MD_P3_requetez-une-base-de-donnees-avec-sql-1_2024-11-15T121006.zip" id="-sW92_vnzfjc-GKh4V1b-74">
+          <mxCell parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=light-dark(#6666FF,#FC7470);fontStyle=4;fontFamily=Helvetica;fontSize=24;" vertex="1">
+            <mxGeometry height="60" width="280" x="380" y="-100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-75" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" value="" vertex="1">
+          <mxGeometry height="60" width="280" x="699" y="320" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;&lt;font&gt;Lien Livrable Projet 4&lt;/font&gt;&lt;/b&gt;" link="https://github.com/mdoyenblec/portfolio-data-analyst/blob/main/Livrables-Projets/MD_P4_realisez-une-etude-de-sante-publique-avec-r-ou-python-1_2024-12-19T232031.zip" id="-sW92_vnzfjc-GKh4V1b-76">
+          <mxCell parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=light-dark(#6666FF,#FC7470);fontStyle=4;fontFamily=Helvetica;fontSize=24;" vertex="1">
+            <mxGeometry height="60" width="280" x="699" y="320" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-77" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" value="" vertex="1">
+          <mxGeometry height="60" width="280" x="970" y="790" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;&lt;font&gt;Lien Livrable Projet 5&lt;/font&gt;&lt;/b&gt;" link="https://github.com/mdoyenblec/portfolio-data-analyst/blob/main/Livrables-Projets/MD_P5_creez-et-utilisez-une-base-de-donnees-immobiliere-avec-sql-1_2025-03-09T185148.zip" id="-sW92_vnzfjc-GKh4V1b-78">
+          <mxCell parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=light-dark(#6666FF,#FC7470);fontStyle=4;fontFamily=Helvetica;fontSize=24;" vertex="1">
+            <mxGeometry height="60" width="280" x="970" y="790" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-79" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" value="" vertex="1">
+          <mxGeometry height="60" width="280" x="822" y="1273" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;&lt;font&gt;Lien Livrable Projet 6&lt;/font&gt;&lt;/b&gt;" link="https://github.com/mdoyenblec/portfolio-data-analyst/blob/main/Livrables-Projets/MD_P6_optimisez-la-gestion-des-donnees-dune-boutique-avec-r-ou-python-1_2025-04-10T174449.zip" id="-sW92_vnzfjc-GKh4V1b-80">
+          <mxCell parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=light-dark(#6666FF,#FC7470);fontStyle=4;fontFamily=Helvetica;fontSize=24;" vertex="1">
+            <mxGeometry height="60" width="280" x="822" y="1273" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-81" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" value="" vertex="1">
+          <mxGeometry height="60" width="280" x="280" y="1635" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;&lt;font&gt;Lien Livrable Projet 7&lt;/font&gt;&lt;/b&gt;" link="https://github.com/mdoyenblec/portfolio-data-analyst/blob/main/Livrables-Projets/MD_P7_tableau_de_bord_powerbi_DoyenBlec_Maxime.zip" id="-sW92_vnzfjc-GKh4V1b-82">
+          <mxCell parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=light-dark(#6666FF,#FC7470);fontStyle=4;fontFamily=Helvetica;fontSize=24;" vertex="1">
+            <mxGeometry height="60" width="280" x="280" y="1635" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-83" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" value="" vertex="1">
+          <mxGeometry height="60" width="280" x="-419" y="1723" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;&lt;font&gt;Lien Livrable Projet 8&lt;/font&gt;&lt;/b&gt;" link="https://github.com/mdoyenblec/portfolio-data-analyst/blob/main/Livrables-Projets/MD_P8_analysez-des-indicateurs-de-legalite-femmes-hommes-en-respect-du-rgpd_2025-07-03T202436.zip" id="-sW92_vnzfjc-GKh4V1b-84">
+          <mxCell parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=light-dark(#6666FF,#FC7470);fontStyle=4;fontFamily=Helvetica;fontSize=24;" vertex="1">
+            <mxGeometry height="60" width="280" x="-419" y="1723" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-85" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" value="" vertex="1">
+          <mxGeometry height="60" width="280" x="-1129" y="1663" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;&lt;font&gt;Lien Livrable Projet 9&lt;/font&gt;&lt;/b&gt;" link="https://github.com/mdoyenblec/portfolio-data-analyst/blob/main/Livrables-Projets/MD_P9_analysez-les-ventes-dune-librairie-avec-r-ou-python-1_2025-07-25T161431.zip" id="-sW92_vnzfjc-GKh4V1b-86">
+          <mxCell parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=light-dark(#6666FF,#FC7470);fontStyle=4;fontFamily=Helvetica;fontSize=24;" vertex="1">
+            <mxGeometry height="60" width="280" x="-1129" y="1663" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-87" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" value="" vertex="1">
+          <mxGeometry height="60" width="280" x="-1570" y="1230" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;&lt;font&gt;Lien Livrable Projet 10&lt;/font&gt;&lt;/b&gt;" link="https://github.com/mdoyenblec/portfolio-data-analyst/blob/main/Livrables-Projets/MD_P10_faites-une-etude-sur-leau-potable-1_2025-10-25T091711.zip" id="-sW92_vnzfjc-GKh4V1b-88">
+          <mxCell parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=light-dark(#6666FF,#FC7470);fontStyle=4;fontFamily=Helvetica;fontSize=24;" vertex="1">
+            <mxGeometry height="60" width="280" x="-1570" y="1230" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-89" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" value="" vertex="1">
+          <mxGeometry height="60" width="280" x="-1849" y="760" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;&lt;font&gt;Lien Livrable Projet 11&lt;/font&gt;&lt;/b&gt;" link="https://github.com/mdoyenblec/portfolio-data-analyst/blob/main/Livrables-Projets/MD_P11_produisez-une-etude-de-marche-avec-r-ou-python-1_2026-01-17T122430.zip" id="-sW92_vnzfjc-GKh4V1b-90">
+          <mxCell parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=light-dark(#6666FF,#FC7470);fontStyle=4;fontFamily=Helvetica;fontSize=24;" vertex="1">
+            <mxGeometry height="60" width="280" x="-1849" y="760" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-sW92_vnzfjc-GKh4V1b-91" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" value="" vertex="1">
+          <mxGeometry height="60" width="280" x="-1706" y="180" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;&lt;font&gt;Lien Livrable Projet 12&lt;/font&gt;&lt;/b&gt;" link="https://github.com/mdoyenblec/portfolio-data-analyst/blob/main/Livrables-Projets/MD_P12_detection_faux_billets_DoyenBlec_Maxime_012026.zip" id="-sW92_vnzfjc-GKh4V1b-92">
+          <mxCell parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=light-dark(#6666FF,#FC7470);fontStyle=4;fontFamily=Helvetica;fontSize=24;" vertex="1">
+            <mxGeometry height="60" width="280" x="-1706" y="180" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
