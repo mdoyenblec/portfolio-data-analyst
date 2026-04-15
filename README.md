@@ -19,22 +19,25 @@ Outils utilisés : Tableau Desktop · Tableau Public
 📋 Livrables Aeroworld
 
 🔍 Analyse des besoins métier
+
 Étude approfondie des besoins exprimés par Aeroworld : identification des enjeux data, cartographie des processus existants, définition des axes d'amélioration et recommandations stratégiques orientées management et innovation.
 
 📄 Cahier des charges du portfolio
+
 Document cadrant la mission portfolio : objectifs, périmètre, contraintes, livrables attendus, critères d'évaluation et jalons de suivi.
 
-📅 Diagramme de Gantt — Planification
-Diagramme de Gantt réalisé sur Tableau pour planifier et suivre l'avancement des 12 projets du portfolio. Visualisation des phases, dépendances entre projets et respect des délais.
+📅 Diagramme de Gantt / Planification
+
+Diagramme de Gantt réalisé sur Tableau pour planifier et suivre l'avancement de création du portfolio. Visualisation des phases et respect des délais.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🎓 Ressources de formation (Tableau)
 
-🎬 Vidéo de formation — Création de visualisations dans Tableau
+🎬 Vidéo de formation : Création de visualisations dans Tableau
 Formation vidéo réalisée via Loom à destination des équipes souhaitant monter en compétence sur Tableau. Contenu orienté prise en main, bonnes pratiques et cas d'usage métier.
 
-📘 Guide — Créer un graphique d'analyse data dans Tableau
+📘 Guide : Créer un graphique d'analyse data dans Tableau
 Guide PDF pas-à-pas couvrant la création d'un graphique d'analyse data dans Tableau : choix du type de visualisation, préparation des données, paramétrage et bonnes pratiques de mise en forme.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
