@@ -1,5 +1,5 @@
 # Portfolio Data Analyst - Mission Aeroworld 🛩️
-<br/>
+<br>
 ## 🗂️ À propos de ce repository
 Ce repository centralise l'ensemble des livrables produits dans le cadre de ma mission portfolio réalisée pour Aeroworld, acteur du secteur aéronautique à la recherche d'un profil Data Analyst confirmé, avec une appétence pour le management d'équipe et l'innovation data.
 <br/>
