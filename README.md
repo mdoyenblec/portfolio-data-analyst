@@ -16,8 +16,9 @@ Outils utilisés : Tableau Desktop · Tableau Public
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📋 Livrables Aeroworld  
-
+📋 Livrables Aeroworld
+<br/>
+<br/>
 🔍 Analyse des besoins métier
 
 Étude approfondie des besoins exprimés par Aeroworld : identification des enjeux data, cartographie des processus existants, définition des axes d'amélioration et recommandations stratégiques orientées management et innovation.
