@@ -9,12 +9,8 @@ Ce repository centralise l'ensemble des livrables produits dans le cadre de ma m
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📊 Veille métier (Dashboards)
-<br/>
 Les tableaux de bord de veille métier couvrent les tendances du secteur data : évolutions technologiques, outils émergents, pratiques de management analytique et innovations dans le domaine de la data science appliquée à l'industrie aéronautique.
-<br/>
 Outils utilisés : Tableau Desktop · Tableau Public
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📋 Livrables Aeroworld
 <br/>
