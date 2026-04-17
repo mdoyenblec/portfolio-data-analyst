@@ -28,4 +28,5 @@ Guide PDF pas-à-pas couvrant la création d'un graphique d'analyse data dans Ta
 ## 📬 Contact
 Pour toute question relative aux livrables ou à la mission Aeroworld, vous pouvez me contacter via GitHub ou LinkedIn.
 
-![photo](assets/photo.jpeg "avion")
+<img width="5164" height="3442" alt="photo" src="https://github.com/user-attachments/assets/944570d7-051f-4077-8240-4bace9e279a8" />
+
